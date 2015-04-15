@@ -1,0 +1,272 @@
+html, body, nav, section, div, img, ul, p {
+	margin: auto 0;
+	padding: 0;
+	font-family: 'Belleza', sans-serif;
+}
+
+.clearfix {
+	overflow: auto;
+}
+
+.content {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#main-title {
+	float: left;
+	font-family: 'Belleza', sans-serif;
+	font-size: 60px;
+	color: #FF0080;
+	list-style-type: none;
+}
+
+#nav-links-list {
+	float: right;
+	padding-top: 20px;
+}
+
+
+#nav-links-list>li{
+	list-style-type: none;
+	float: left;
+	padding-left: 68px;
+	padding-top: 2px;
+	font-size: 20px;
+	font-weight: bold; 
+}
+
+.main-header {
+	position: center;
+}
+
+/*SECTION 1*/
+
+#numero-one {
+	background-color: #03BEFC;
+	height: 540px;
+	text-align: center;
+}
+
+#info-grid {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	
+}
+
+
+.info-text {
+	color: #FFFFFF;
+	width: 230px; 
+	float: left;
+	height: 100px;
+	padding-left: 75px; 
+	text-align: center;
+	padding-bottom: 160px;
+	padding-top: 5px;
+}
+
+/*SECTION 2*/
+
+
+#left-side-text {
+	width: 235px;
+	float: left;
+}
+
+#left-side-text>li {
+	list-style-type: none;
+}
+
+#line-one {
+	font-size: 36px;
+}
+
+#line-two {
+	font-size: 18px;
+	padding-top: 20px;
+}
+
+#line-three {
+	font-size: 16px;
+	padding-top: 20px;
+}
+
+#one {
+	margin-top: 30px;
+	background: #BD15A4;
+	width: 80px;
+	height: 30px;
+	border: none;
+	font-size: 15px;
+}
+
+
+#icons>li {
+	float: left;
+	list-style-type: none;
+	width: 235px;
+	height: 180px;
+	padding-left: 20px;
+	padding-bottom: 60px;
+	padding-top: 10px;
+}
+
+#title {
+	font-size: 14pt;
+	font-weight: bold;
+	padding-top: 20px;
+}
+
+#description {
+	font-size: 14pt;
+	color: #646464;
+	padding-top: 5px;
+	padding-bottom: 20px;
+
+}
+
+#thumbnail-one{
+	background-image: url(../imgs/paris-6.png);
+	height: 150px;
+	width: 235px;
+	background-position: 200px 0px 300px 0px;
+	background-repeat: no-repeat;
+		
+}
+
+#thumbnail-two{
+	background-image: url(../imgs/paris-5.png);
+	height: 150px;
+	width: 235px;
+	background-position: 0px 0px; 
+
+}
+
+#thumbnail-three{
+	background-image: url(../imgs/paris-4.png);
+	height: 150px;
+	width: 235px;
+	background-position: -100px -150px;
+	background-repeat: no-repeat;
+	
+}
+
+#thumbnail-four{
+	background-image: url(../imgs/paris-3.png);
+	height: 150px;
+	width: 235px;
+	background-position: 0px 0px, center; 
+
+}
+
+#thumbnail-five{
+	background-image: url(../imgs/paris-2.png);
+	height: 150px;
+	width: 235px;
+	background-position: 0px 0px, center; 
+}
+
+#thumbnail-six {
+	background-image: url(../imgs/paris-1.png);
+	height: 150px;
+	width: 235px;
+	background-position: -275px; 
+}
+
+
+/*SECTION 3*/
+
+#number-three {
+background-color: #13498C;
+height: 220px;
+margin-top: 590px;
+
+}
+
+
+.logo-group>li {
+	float: left;
+	list-style-type: none;
+	width: 250px;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	color: #FFFFFF;
+	overflow: none;
+}
+
+#logo-1 {
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#logo-2 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#logo-3 {
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#logo-4 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+/*SECTION 4*/
+#number-four {
+	background-color: #D12E77;
+	height: 325px;
+}
+
+.question>ul {
+	list-style-type: none;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#line-a {
+	font-size: 35px;
+	color: #FFFFFF;
+}
+ #line-b {
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+ }
+
+ #two {
+	margin-top: 40px;
+	background: #00509F;
+	width: 130px;
+	height: 45px;
+	border: none;
+	font-size: 18px;
+}
+
+
+/*FOOTER*/
+.theme {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.theme>ul {
+	text-align: center;
+	list-style-type: none;
+	color: #606060;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
